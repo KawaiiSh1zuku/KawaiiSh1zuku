@@ -8,7 +8,7 @@ Shanghai's study pressure is big, I need to prepare for the high school entrance
 
 - 🔭 I’m currently working on bug fixing for some PHP projects
 - 🌱 I’m currently learning PHP and C++
-- 👯 I’m looking to collaborate on a new project called 'Bye Bye BUG!'
+- 👯 I’m looking to collaborate on a new project called 'SmartPic'
 - 📫 How to reach me: Mail:2531339252@qq.com or law2008666@outlook.com
 
 ## How to communicate with me?
