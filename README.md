@@ -1,16 +1,15 @@
-### Hi there 👋
+### This's Jasondi's Github Account.
 
-<!--
-**Jasondi666/Jasondi666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+I am a junior high school student from Shanghai, China, love computer, start writing code in 2019.Now there are many project bugs that I have repaired my own but not submitted with Pull Request.Next, I will try to learn PHP and C ++ languages.
 
-Here are some ideas to get you started:
+## What's I'm doing?
+Shanghai's study pressure is big, I need to prepare for the high school entrance examination. Only in the winter and summer vacation and statutory holidays have time to modify the bug.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on bug fixing for some PHP projects
+- 🌱 I’m currently learning PHP and C++
+- 👯 I’m looking to collaborate on a new project called 'Bye Bye BUG!'
+- 📫 How to reach me: Mail:2531339252@qq.com or law2008666@outlook.com
+
+## How to communicate with me?
+You can send e-mails to 2531339252@qq.com or law2008666@outlook.com.
