@@ -1,5 +1,3 @@
-### This's Jasondi's Github Account.
-
 ## Who am I?
 I am a junior high school student from Shanghai, China, love computer, start writing code in 2019.Now there are many project bugs that I have repaired my own but not submitted with Pull Request.Next, I will try to learn PHP and C ++ languages.
 
